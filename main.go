@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"time"
 
-	"gator/internal/config"
-	"gator/internal/database"
+	"github.com/JB4779/gator/internal/config"
+	"github.com/JB4779/gator/internal/database"
 
 	"github.com/google/uuid"
 	"github.com/lib/pq"
